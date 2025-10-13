@@ -34,7 +34,8 @@
 ## 📂 Featured Projects  
 - 📌 [Amazon Product Ratings Prediction (KNN Model)](your-project-link)  
 - 📌 [Sales Dashboard in Power BI](your-project-link)  
-- 📌 [Data Cleaning & Analysis with Python](your-project-link)  
+- 📌 [Data Cleaning & Analysis with Python](your-project-link)
+- 📌 [Weather Insights Dashboard – Power BI Project](your-project-link)
 
 ---
 
